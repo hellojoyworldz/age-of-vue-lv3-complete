@@ -1,6 +1,6 @@
 # 해커 뉴스 공식 사이트 만들기
 
-- CLI 3.x
+- CLI 3.x  
   [해커 뉴스 공식 사이트 주소](https://news.ycombinator.com/)  
   [해커 뉴스 API 문서 주소](https://github.com/tastejs/hacker-news-pwas/blob/master/docs/api.md)
 
@@ -14,7 +14,7 @@ news, ask, jobs
 ## CLI 2.x vs CLI 3.x
 
 [Vue CLI 사이트](https://cli.vuejs.org/)  
-[Vue CLI webpack](https://cli.vuejs.org/guide/webpack.html#working-with-webpack)
+[Vue CLI webpack](https://cli.vuejs.org/guide/webpack.html#working-with-webpack)  
 [webpack-simple 템플릿 깃헙 주소](https://github.com/vuejs-templates/webpack-simple)
 
 - 명령어
